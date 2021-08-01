@@ -4,15 +4,20 @@ Confira a lista de material autoral que estou construindo para auxiliar em seus 
 
 Tem alguma sugestão de conteúdo? Comparilhe comigo, me adicione no **instagram @erickbsouza** :) 
 
+---
+
 ### [Ambiente de desenvolvimento]
 
 - [Google Colab](https://colab.research.google.com/)
 - [Instalação Python](https://www.python.org/)
 - [Pacote Anaconda](https://www.anaconda.com/products/individual)
 
+---
 
 ### [Curso]
 - [Guia prático de lógica de programação e algoritmos (Udemy)](https://www.udemy.com/course/guia-pratico-de-logica-de-programacao-e-algoritmos/?referralCode=E0B8C9D0BBD75E6947CE)
+
+---
 
 ### [Python notebooks]
 
@@ -22,6 +27,8 @@ Tem alguma sugestão de conteúdo? Comparilhe comigo, me adicione no **instagram
 - [Tratamento de exceção](https://github.com/ebsouza/self-learning/blob/main/TratamentoExcecao.ipynb)
 #### 2.  Computação Científica
 - [Gráficos com Matplotlib](https://github.com/ebsouza/self-learning/blob/main/Matplotlib.ipynb)
+
+---
 
 ### [Artigos no Medium]
 
