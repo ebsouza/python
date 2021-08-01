@@ -1,8 +1,8 @@
 Seja muito bem vindo(a),
 
-Confira abaixo a lista de material autoral que estou contruindo para auxiliar em seus estudos.
+Confira a lista de material autoral que estou construindo para auxiliar em seus estudos.
 
-Você alguma sugestão? Comparilhe comigo, me adicione no **instagram @erickbsouza** :) 
+Tem alguma sugestão de conteúdo? Comparilhe comigo, me adicione no **instagram @erickbsouza** :) 
 
 ### [Ambiente de desenvolvimento]
 
