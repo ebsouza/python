@@ -12,7 +12,7 @@ Tem alguma sugestão de conteúdo? Comparilhe comigo, me adicione no **instagram
 
 
 ### [Curso]
-- [Guia prático de lógica de programação e algoritmos (UDEMY)](https://www.udemy.com/course/guia-pratico-de-logica-de-programacao-e-algoritmos/?referralCode=E0B8C9D0BBD75E6947CE)
+- [Guia prático de lógica de programação e algoritmos (Udemy)](https://www.udemy.com/course/guia-pratico-de-logica-de-programacao-e-algoritmos/?referralCode=E0B8C9D0BBD75E6947CE)
 
 ### [Python notebooks]
 
