@@ -25,6 +25,7 @@ Tem alguma sugestão de conteúdo? Comparilhe comigo, me adicione no **instagram
 - [Tipos de Dados](https://github.com/ebsouza/self-learning/blob/main/TiposDeDados.ipynb)
 - [Operadores](https://github.com/ebsouza/self-learning/blob/main/Operadores.ipynb)
 - [Tratamento de exceção](https://github.com/ebsouza/self-learning/blob/main/TratamentoExcecao.ipynb)
+- [Programação Orientada a Objetos](https://github.com/ebsouza/python/blob/master/POO-1.ipynb)
 #### 2.  Computação Científica
 - [Gráficos com Matplotlib](https://github.com/ebsouza/self-learning/blob/main/Matplotlib.ipynb)
 
