@@ -21,7 +21,7 @@ Tem alguma sugestão de conteúdo? Comparilhe comigo, me adicione no **instagram
 
 ### [Python notebooks]
 
-#### 1. Python Básico
+#### 1. Linguagem Python
 - [Tipos de Dados](https://github.com/ebsouza/self-learning/blob/main/TiposDeDados.ipynb)
 - [Operadores](https://github.com/ebsouza/self-learning/blob/main/Operadores.ipynb)
 - [Tratamento de exceção](https://github.com/ebsouza/self-learning/blob/main/TratamentoExcecao.ipynb)
