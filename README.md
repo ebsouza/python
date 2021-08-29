@@ -11,6 +11,7 @@ Tem alguma sugestão de conteúdo? Comparilhe comigo, me adicione no **instagram
 - [Google Colab](https://colab.research.google.com/)
 - [Instalação Python](https://www.python.org/)
 - [Pacote Anaconda](https://www.anaconda.com/products/individual)
+- [IDE Online](https://replit.com/languages/python3?fbclid=IwAR1mcgDUzPwbYCsUqrxflYevTH312vftrQatZZIt49t3Kk85XGSMTAOBx-o)
 
 ---
 
