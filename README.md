@@ -24,12 +24,13 @@ Tem alguma sugestão de conteúdo? Comparilhe comigo, me adicione no **instagram
 ### [Python notebooks]
 
 #### 1. Linguagem Python
-- [Tipos de Dados](https://github.com/ebsouza/self-learning/blob/main/TiposDeDados.ipynb)
-- [Operadores](https://github.com/ebsouza/self-learning/blob/main/Operadores.ipynb)
-- [Tratamento de exceção](https://github.com/ebsouza/self-learning/blob/main/TratamentoExcecao.ipynb)
-- [Programação Orientada a Objetos](https://github.com/ebsouza/python/blob/master/POO-1.ipynb)
+- [Tipos de Dados](https://github.com/ebsouza/python/blob/master/TiposDeDados.ipynb)
+- [Operadores](https://github.com/ebsouza/python/blob/master/Operadores.ipynb)
+- [Tratamento de exceção](https://github.com/ebsouza/python/blob/master/TratamentoExcecao.ipynb)
+- [Programação Orientada a Objetos - Parte I](https://github.com/ebsouza/python/blob/master/POO-1.ipynb)
+- [Programação Orientada a Objetos - Parte II](https://github.com/ebsouza/python/blob/master/POO-2.ipynb)
 #### 2.  Computação Científica
-- [Gráficos com Matplotlib](https://github.com/ebsouza/self-learning/blob/main/Matplotlib.ipynb)
+- [Gráficos com Matplotlib](https://github.com/ebsouza/python/blob/master/Matplotlib.ipynb)
 
 ---
 
