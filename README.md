@@ -29,7 +29,7 @@ Tem alguma sugestão de conteúdo? Comparilhe comigo, me adicione no **instagram
 - [Tratamento de exceção](https://github.com/ebsouza/python/blob/master/TratamentoExcecao.ipynb)
 - [Programação Orientada a Objetos - Parte I](https://github.com/ebsouza/python/blob/master/POO-1.ipynb)
 - [Programação Orientada a Objetos - Parte II](https://github.com/ebsouza/python/blob/master/POO-2.ipynb)
-- [Pacotes importantes](https://github.com/ebsouza/python/blob/master/Packages.md)
+- [ << Pacotes importantes >> ](https://github.com/ebsouza/python/blob/master/Packages.md)
 #### 2.  Computação Científica
 - [Gráficos com Matplotlib](https://github.com/ebsouza/python/blob/master/Matplotlib.ipynb)
 
