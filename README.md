@@ -1,8 +1,8 @@
-Seja muito bem vindo(a),
+Seja muito bem-vindo,
 
 Confira a lista de material autoral que estou construindo para auxiliar em seus estudos.
 
-Tem alguma sugestão de conteúdo? Comparilhe comigo, me adicione no **instagram @erickbsouza** :) 
+**Instagram @erickbsouza** 
 
 ---
 
