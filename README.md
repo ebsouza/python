@@ -2,7 +2,7 @@ Seja muito bem-vindo,
 
 Confira a lista de material autoral que estou construindo para auxiliar em seus estudos.
 
-**Instagram @erickbsouza** 
+Dúvidas ou sugestões? Entre em contato :)
 
 ---
 
