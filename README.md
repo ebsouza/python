@@ -38,7 +38,7 @@ Dúvidas ou sugestões? Entre em contato :)
 
 ### [Artigos no Medium]
 
-- [Python Essencial: Muito além da lógica de programação](https://medium.com/@ebsouza/python-essencial-muito-al%C3%A9m-da-l%C3%B3gica-de-programa%C3%A7%C3%A3o-3f257c29a1d7)
+- [Python Essencial: Muito além da lógica de programação](https://medium.com/@ebsouza/python-essencial-muito-al%C3%A9m-da-l%C3%B3gica-de-programa%C3%A7%C3%A3o-c832c96d5ea7)
 - [Algoritmo, o que é isso?](https://medium.com/data-hackers/algoritmo-o-que-%C3%A9-isso-a2af4f8663e9)
 - [Ambiente de desenvolvimento com Docker e Jupyter Notebook](https://medium.com/data-hackers/ambiente-de-desenvolvimento-com-docker-e-jupyter-notebook-7605e9140f72)
 - [Armazene imagens remotamente com Image Storage](https://medium.com/data-hackers/armazene-imagens-remotamente-com-image-storage-79a9256a0f37)
