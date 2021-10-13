@@ -30,7 +30,7 @@ Dúvidas ou sugestões? Entre em contato :)
 - [Programação Orientada a Objetos - Parte I](https://github.com/ebsouza/python/blob/master/POO-1.ipynb)
 - [Programação Orientada a Objetos - Parte II](https://github.com/ebsouza/python/blob/master/POO-2.ipynb)
 - [Programação Orientada a Objetos - Parte III](https://github.com/ebsouza/python/blob/master/POO-3.ipynb)
-- [ << Pacotes importantes >> ](https://github.com/ebsouza/python/blob/master/Packages.md)
+- [Módulos Python](https://github.com/ebsouza/python/blob/master/Packages.md)
 #### 2.  Computação Científica
 - [Gráficos com Matplotlib](https://github.com/ebsouza/python/blob/master/Matplotlib.ipynb)
 
