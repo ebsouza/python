@@ -1,8 +1,8 @@
-Seja muito bem-vindo,
+Sejam muito bem-vindos,
 
 Confira a lista de material autoral que estou construindo para auxiliar em seus estudos.
 
-Dúvidas ou sugestões? Entre em contato :)
+Dúvidas ou sugestões? Entre em [contato](https://github.com/ebsouza/python#contato) :)
 
 ---
 
@@ -24,15 +24,15 @@ Dúvidas ou sugestões? Entre em contato :)
 ### [Python notebooks]
 
 #### 1. Linguagem Python
-- [Tipos de Dados](https://github.com/ebsouza/python/blob/master/TiposDeDados.ipynb)
-- [Operadores](https://github.com/ebsouza/python/blob/master/Operadores.ipynb)
-- [Tratamento de exceção](https://github.com/ebsouza/python/blob/master/TratamentoExcecao.ipynb)
-- [Programação Orientada a Objetos - Parte I](https://github.com/ebsouza/python/blob/master/POO-1.ipynb)
-- [Programação Orientada a Objetos - Parte II](https://github.com/ebsouza/python/blob/master/POO-2.ipynb)
-- [Programação Orientada a Objetos - Parte III](https://github.com/ebsouza/python/blob/master/POO-3.ipynb)
-- [Módulos Python](https://github.com/ebsouza/python/blob/master/Packages.md)
+- [Tipos de Dados](https://github.com/ebsouza/python/blob/master/python-language/TiposDeDados.ipynb)
+- [Operadores](https://github.com/ebsouza/python/blob/master/python-language/Operadores.ipynb)
+- [Tratamento de exceção](https://github.com/ebsouza/python/blob/master/python-language/TratamentoExcecao.ipynb)
+- [Programação Orientada a Objetos - Parte I](https://github.com/ebsouza/python/blob/master/python-language/POO-1.ipynb)
+- [Programação Orientada a Objetos - Parte II](https://github.com/ebsouza/python/blob/master/python-language/POO-2.ipynb)
+- [Programação Orientada a Objetos - Parte III](https://github.com/ebsouza/python/blob/master/python-language/POO-3.ipynb)
+- [Módulos Python](https://github.com/ebsouza/python/blob/master/tips/Packages.md)
 #### 2.  Computação Científica
-- [Gráficos com Matplotlib](https://github.com/ebsouza/python/blob/master/Matplotlib.ipynb)
+- [Gráficos com Matplotlib](https://github.com/ebsouza/python/blob/master/scientific-computing/Matplotlib.ipynb)
 
 ---
 
