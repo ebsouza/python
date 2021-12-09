@@ -30,6 +30,7 @@ Dúvidas ou sugestões? Entre em [contato](https://github.com/ebsouza/python#con
 - [Programação Orientada a Objetos - Parte I](https://github.com/ebsouza/python/blob/master/python-language/POO-1.ipynb)
 - [Programação Orientada a Objetos - Parte II](https://github.com/ebsouza/python/blob/master/python-language/POO-2.ipynb)
 - [Programação Orientada a Objetos - Parte III](https://github.com/ebsouza/python/blob/master/python-language/POO-3.ipynb)
+- [Testes Unitários](https://github.com/ebsouza/python/blob/master/python-language/UnitTests.ipynb)
 - [Módulos Python](https://github.com/ebsouza/python/blob/master/tips/Packages.md)
 #### 2.  Computação Científica
 - [Gráficos com Matplotlib](https://github.com/ebsouza/python/blob/master/scientific-computing/Matplotlib.ipynb)
