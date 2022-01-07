@@ -34,6 +34,7 @@ Dúvidas ou sugestões? Entre em [contato](https://github.com/ebsouza/python#con
 - [Módulos Python](https://github.com/ebsouza/python/blob/master/tips/Packages.md)
 #### 2.  Computação Científica
 - [Gráficos com Matplotlib](https://github.com/ebsouza/python/blob/master/scientific-computing/Matplotlib.ipynb)
+- [Manipulando dados com Pandas](https://github.com/ebsouza/python/blob/master/scientific-computing/Pandas.ipynb)
 
 ---
 
