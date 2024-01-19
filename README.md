@@ -31,7 +31,7 @@ Dúvidas ou sugestões? Entre em [contato](https://github.com/ebsouza/python#con
 - [Programação Orientada a Objetos - Parte II](https://github.com/ebsouza/python/blob/master/python-language/POO-2.ipynb)
 - [Programação Orientada a Objetos - Parte III](https://github.com/ebsouza/python/blob/master/python-language/POO-3.ipynb)
 - [Testes Unitários](https://github.com/ebsouza/python/blob/master/python-language/UnitTests.ipynb)
-- [Módulos Python](https://github.com/ebsouza/python/blob/master/tips/Packages.md)
+- [Pacotes Python](https://github.com/ebsouza/python/blob/master/tips/Packages.md)
 #### 2.  Computação Científica
 - [Gráficos com Matplotlib](https://github.com/ebsouza/python/blob/master/scientific-computing/Matplotlib.ipynb)
 - [Manipulando dados com Pandas](https://github.com/ebsouza/python/blob/master/scientific-computing/Pandas.ipynb)
@@ -40,6 +40,7 @@ Dúvidas ou sugestões? Entre em [contato](https://github.com/ebsouza/python#con
 
 ### [Artigos no Medium]
 
+- [Clean Code: Em busca de nomes significativos](https://medium.com/data-hackers/clean-code-em-busca-de-nomes-significativos-6f2bcab9a6e9)
 - [Python Essencial: Muito além da lógica de programação](https://medium.com/@ebsouza/python-essencial-muito-al%C3%A9m-da-l%C3%B3gica-de-programa%C3%A7%C3%A3o-c832c96d5ea7)
 - [Algoritmo, o que é isso?](https://medium.com/data-hackers/algoritmo-o-que-%C3%A9-isso-a2af4f8663e9)
 - [Ambiente de desenvolvimento com Docker e Jupyter Notebook](https://medium.com/data-hackers/ambiente-de-desenvolvimento-com-docker-e-jupyter-notebook-7605e9140f72)
@@ -53,5 +54,4 @@ Dúvidas ou sugestões? Entre em [contato](https://github.com/ebsouza/python#con
 
 ### Contato
 
-- **Instagram:** @erickbsouza
 - **LinkedIn:** https://www.linkedin.com/in/ebsouza/

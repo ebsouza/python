@@ -28,5 +28,4 @@
 
 ### Contato
 
-- **Instagram:** @erickbsouza
 - **LinkedIn:** https://www.linkedin.com/in/ebsouza/
